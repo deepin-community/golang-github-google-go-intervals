@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-google-go-intervals (0.0.2-2) unstable; urgency=medium
 
-  * Initial release
+  * Ensure that tzdata is available for tests
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Reinhard Tartler <siretart@tauware.de>  Fri, 28 May 2021 11:34:42 -0400
+
+golang-github-google-go-intervals (0.0.2-1) unstable; urgency=medium
+
+  * Initial release (Closes: #987562)
+
+ -- Reinhard Tartler <siretart@tauware.de>  Sun, 25 Apr 2021 14:20:52 -0400
